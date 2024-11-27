@@ -1,4 +1,4 @@
-Isaac Doe
+<h2> Isaac Doe <h2>
 
 Computer Science & Information Security Major | Data Analytics & Programming Enthusiast
 
@@ -7,7 +7,7 @@ Hello! I’m Isaac Doe, a Computer Science and Information Security major at Joh
 Linkedin
 https://www.linkedin.com/in/isaac-doe-a68266106/
 
-Certfications
+<h2>Certfications <h2></h2>
 
 https://www.coursera.org/account/accomplishments/verify/8KWXSA420QJX
 
